@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secords DXF Viewer</string>
+    <string name="option">オプション</string>
+    <string name="edit">編集</string>
+</resources>

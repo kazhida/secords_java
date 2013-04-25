@@ -1,2 +1,6 @@
-secords_java
+Secords
 ============
+DXF Viewer for Android Tablet
+
+作りかけのDXFビューア
+
